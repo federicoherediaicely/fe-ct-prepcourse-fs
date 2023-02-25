@@ -1,11 +1,11 @@
 /* eslint-disable no-undef */
 const {
-   nuevoString,
-   nuevoNumero,
-   nuevoBoolean,
-   nuevaResta,
-   nuevaMultiplicacion,
-   nuevoModulo,
+   nuevoString, 'jugador de futbol'
+   nuevoNumero, '47'
+   nuevoBoolean, 'Foden la rompe=True'
+   nuevaResta, console.log (10 - 2)
+   nuevaMultiplicacion, console.log (5 x 5)
+   nuevoModulo, 
 } = require('../Ejercicio 01');
 
 const {
